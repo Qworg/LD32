@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Student : MonoBehaviour {
 
-	private StudentModel _model;
+	private Model.Student _model;
 
 	// Use this for initialization
 	void Start () {
